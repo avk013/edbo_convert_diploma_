@@ -1,0 +1,9 @@
+E:\!Source\Repos\edbo_convert_diploma\edbo_convert_diploma\bin\Debug\edbo_convert_diploma.exe.config
+E:\!Source\Repos\edbo_convert_diploma\edbo_convert_diploma\bin\Debug\edbo_convert_diploma.exe
+E:\!Source\Repos\edbo_convert_diploma\edbo_convert_diploma\bin\Debug\edbo_convert_diploma.pdb
+E:\!Source\Repos\edbo_convert_diploma\edbo_convert_diploma\obj\Debug\edbo_convert_diploma.csprojResolveAssemblyReference.cache
+E:\!Source\Repos\edbo_convert_diploma\edbo_convert_diploma\obj\Debug\edbo_convert_diploma.Form1.resources
+E:\!Source\Repos\edbo_convert_diploma\edbo_convert_diploma\obj\Debug\edbo_convert_diploma.Properties.Resources.resources
+E:\!Source\Repos\edbo_convert_diploma\edbo_convert_diploma\obj\Debug\edbo_convert_diploma.csproj.GenerateResource.Cache
+E:\!Source\Repos\edbo_convert_diploma\edbo_convert_diploma\obj\Debug\edbo_convert_diploma.exe
+E:\!Source\Repos\edbo_convert_diploma\edbo_convert_diploma\obj\Debug\edbo_convert_diploma.pdb
